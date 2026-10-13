@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/dc-code",
   "title": "Dc Code",
-  "description": "District of Columbia Code — DC statutes by citation, and topic/chapter",
-  "version": "0.1.0",
+  "description": "District of Columbia Code — DC statutes by citation, and topic/chapter search. Fleet #2887 (one of…",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/dc-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-dc-code",
